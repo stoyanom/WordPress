@@ -1,3 +1,6 @@
 [submodule "Traysealer-JSON-Automation"]
 	path = Traysealer-JSON-Automation
 	url = https://github.com/kozarevr/Traysealer-JSON-Automation.git
+[submodule "phpmyadmin"]
+	path = phpmyadmin
+	url = https://github.com/phpmyadmin/phpmyadmin.git
